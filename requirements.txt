@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+openai
+httpx
+pillow
+markdown
+beautifulsoup4
+speechrecognition
+pandas
+
